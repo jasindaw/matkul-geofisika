@@ -1,0 +1,990 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.11.7)  8 NOV 2023 06:18
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"f:/aku kuliah/7. SEMESTER VII/matkul metode inversi/tugas 4 inversi/jawaban tugas 4/jawabantugas4.tex"
+(f:/aku kuliah/7. SEMESTER VII/matkul metode inversi/tugas 4 inversi/jawaban tugas 4/jawabantugas4.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-03-30> (C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks17
+ (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Program Files\MiKTeX\tex/latex/preprint\authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip50
+\@affilsep=\skip51
+\c@Maxaffil=\count196
+\c@authors=\count197
+\c@affil=\count198
+) (C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Program Files\MiKTeX\tex/latex/psnfss\palatino.sty
+Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (C:\Program Files\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip52
+\enit@outerparindent=\dimen151
+\enit@toks=\toks18
+\enit@inbox=\box51
+\enit@count@id=\count199
+\enitdp@description=\count266
+) (C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen152
+\pgfutil@tempdimb=\dimen153
+) (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box52
+) (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+ (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks22
+))
+\pgf@x=\dimen154
+\pgf@y=\dimen155
+\pgf@xa=\dimen156
+\pgf@ya=\dimen157
+\pgf@xb=\dimen158
+\pgf@yb=\dimen159
+\pgf@xc=\dimen160
+\pgf@yc=\dimen161
+\pgf@xd=\dimen162
+\pgf@yd=\dimen163
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count267
+\c@pgf@countb=\count268
+\c@pgf@countc=\count269
+\c@pgf@countd=\count270
+\t@pgf@toka=\toks23
+\t@pgf@tokb=\toks24
+\t@pgf@tokc=\toks25
+\pgf@sys@id@count=\count271
+ (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count272
+\pgfsyssoftpath@bigbuffer@items=\count273
+) (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen164
+\pgfmath@count=\count274
+\pgfmath@box=\box53
+\pgfmath@toks=\toks26
+\pgfmath@stack@operand=\toks27
+\pgfmath@stack@operation=\toks28
+) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count275
+)) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen165
+\pgf@picmaxx=\dimen166
+\pgf@picminy=\dimen167
+\pgf@picmaxy=\dimen168
+\pgf@pathminx=\dimen169
+\pgf@pathmaxx=\dimen170
+\pgf@pathminy=\dimen171
+\pgf@pathmaxy=\dimen172
+\pgf@xx=\dimen173
+\pgf@xy=\dimen174
+\pgf@yx=\dimen175
+\pgf@yy=\dimen176
+\pgf@zx=\dimen177
+\pgf@zy=\dimen178
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen179
+\pgf@path@lasty=\dimen180
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen181
+\pgf@shorten@start@additional=\dimen182
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box54
+\pgf@hbox=\box55
+\pgf@layerbox@main=\box56
+\pgf@picture@serial@count=\count276
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen183
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen184
+\pgf@pt@y=\dimen185
+\pgf@pt@temp=\dimen186
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen187
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen188
+\pgf@sys@shading@range@num=\count277
+\pgf@shadingcount=\count278
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box57
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box58
+) (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen189
+\pgf@nodesepend=\dimen190
+) (C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen191
+\pgffor@skip=\dimen192
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
+)) (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count279
+\pgfplotmarksize=\dimen193
+)
+\tikz@lastx=\dimen194
+\tikz@lasty=\dimen195
+\tikz@lastxsaved=\dimen196
+\tikz@lastysaved=\dimen197
+\tikz@lastmovetox=\dimen198
+\tikz@lastmovetoy=\dimen199
+\tikzleveldistance=\dimen256
+\tikzsiblingdistance=\dimen257
+\tikz@figbox=\box59
+\tikz@figbox@bg=\box60
+\tikz@tempbox=\box61
+\tikz@tempbox@bg=\box62
+\tikztreelevel=\count280
+\tikznumberofchildren=\count281
+\tikznumberofcurrentchild=\count282
+\tikz@fig@count=\count283
+ (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count284
+\pgfmatrixcurrentcolumn=\count285
+\pgf@matrix@numberofcolumns=\count286
+)
+\tikz@expandcount=\count287
+ (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks31
+\ex@=\dimen258
+)) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen259
+) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count288
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count289
+\leftroot@=\count290
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count291
+\DOTSCASE@=\count292
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box63
+\strutbox@=\box64
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen260
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count293
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count294
+\dotsspace@=\muskip16
+\c@parentequation=\count295
+\dspbrk@lvl=\count296
+\tag@help=\toks32
+\row@=\count297
+\column@=\count298
+\maxfields@=\count299
+\andhelp@=\toks33
+\eqnshift@=\dimen261
+\alignsep@=\dimen262
+\tagshift@=\dimen263
+\tagwidth@=\dimen264
+\totwidth@=\dimen265
+\lineht@=\dimen266
+\@envbody=\toks34
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks35
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Program Files\MiKTeX\tex/latex/tabularray\tabularray.sty (C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-03-30 L3 programming layer (loader) 
+ (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count300
+\l__pdf_internal_box=\box65
+))
+Package: tabularray 2023-03-01 v2023A Typeset tabulars and arrays with LaTeX3
+\l__tblr_a_int=\count301
+\l__tblr_c_int=\count302
+\l__tblr_r_int=\count303
+\l__tblr_d_dim=\dimen267
+\l__tblr_h_dim=\dimen268
+\l__tblr_o_dim=\dimen269
+\l__tblr_p_dim=\dimen270
+\l__tblr_q_dim=\dimen271
+\l__tblr_r_dim=\dimen272
+\l__tblr_s_dim=\dimen273
+\l__tblr_t_dim=\dimen274
+\l__tblr_v_dim=\dimen275
+\l__tblr_w_dim=\dimen276
+\l__tblr_a_box=\box66
+\l__tblr_b_box=\box67
+\l__tblr_c_box=\box68
+\l__tblr_d_box=\box69
+\g__tblr_table_count_int=\count304
+\c@rownum=\count305
+\c@colnum=\count306
+\c@rowcount=\count307
+\c@colcount=\count308
+\abovesep=\dimen277
+\belowsep=\dimen278
+\leftsep=\dimen279
+\rightsep=\dimen280
+\g_tblr_level_int=\count309
+\g__tblr_data_row_key_count_int=\count310
+\g__tblr_data_column_key_count_int=\count311
+\g__tblr_data_cell_key_count_int=\count312
+\g__tblr_array_int=\count313
+\l__tblr_key_count_int=\count314
+\l__tblr_key_quotient_int=\count315
+\l__tblr_key_quotient_two_int=\count316
+\l__tblr_key_remainder_int=\count317
+\g__tblr_data_str_value_count_int=\count318
+\rulewidth=\dimen281
+\l__tblr_strut_dp_dim=\dimen282
+\l__tblr_strut_ht_dim=\dimen283
+\g__tblr_cell_wd_dim=\dimen284
+\g__tblr_cell_ht_dim=\dimen285
+\g__tblr_cell_head_dim=\dimen286
+\g__tblr_cell_foot_dim=\dimen287
+\l__column_target_dim=\dimen288
+\l__tblr_caption_box=\box70
+\l__tblr_caption_left_box=\box71
+\l__tblr_row_head_box=\box72
+\l__tblr_row_foot_box=\box73
+\l__tblr_row_head_foot_dim=\dimen289
+\tablewidth=\dimen290
+\l__tblr_table_firsthead_box=\box74
+\l__tblr_table_middlehead_box=\box75
+\l__tblr_table_lasthead_box=\box76
+\l__tblr_table_firstfoot_box=\box77
+\l__tblr_table_middlefoot_box=\box78
+\l__tblr_table_lastfoot_box=\box79
+\l__tblr_remain_height_dim=\dimen291
+\l__tblr_long_from_int=\count319
+\l__tblr_long_to_int=\count320
+\l__tblr_curr_i_int=\count321
+\l__tblr_prev_i_int=\count322
+\l__tblr_table_page_int=\count323
+\l__tblr_table_head_box=\box80
+\l__tblr_table_foot_box=\box81
+\l__tblr_table_head_foot_dim=\dimen292
+\l__tblr_table_head_body_foot_dim=\dimen293
+\l__tblr_table_box=\box82
+\l__tblr_table_hlines_box=\box83
+\l__tblr_hline_box=\box84
+\l__tblr_row_box=\box85
+\l__tblr_col_o_wd_dim=\dimen294
+\l__tblr_col_b_wd_dim=\dimen295
+\l__tblr_hline_leftskip_dim=\dimen296
+\l__tblr_hline_rightskip_dim=\dimen297
+\l__tblr_row_ht_dim=\dimen298
+\l__tblr_row_dp_dim=\dimen299
+\l__tblr_row_abovesep_dim=\dimen300
+\l__tblr_row_belowsep_dim=\dimen301
+\l__tblr_row_vlines_box=\box86
+\l__tblr_vline_box=\box87
+\l__tblr_cell_box=\box88
+\l__row_upper_dim=\dimen302
+\l__row_lower_dim=\dimen303
+\l__row_vpace_dim=\dimen304
+\l__tblr_vline_aboveskip_dim=\dimen305
+\l__tblr_vline_belowskip_dim=\dimen306
+\l__tblr_cell_wd_dim=\dimen307
+\l__tblr_cell_ht_dim=\dimen308
+\l__tblr_diag_box=\box89
+) (C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count324
+\lst@gtempboxa=\box90
+\lst@token=\toks36
+\lst@length=\count325
+\lst@currlwidth=\dimen309
+\lst@column=\count326
+\lst@pos=\count327
+\lst@lostspace=\dimen310
+\lst@width=\dimen311
+\lst@newlines=\count328
+\lst@lineno=\count329
+\lst@maxwidth=\dimen312
+ (C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count330
+\lst@skipnumbers=\count331
+\lst@framebox=\box91
+) (C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+ (C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Program Files\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Program Files\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Program Files\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Program Files\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Program Files\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+ (C:\Program Files\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count332
+)
+\@linkdim=\dimen313
+\Hy@linkcounter=\count333
+\Hy@pagecounter=\count334
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (C:\Program Files\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count335
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4425.
+\c@Hy@tempcnt=\count336
+ (C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen314
+ (C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count337
+\Field@Width=\dimen315
+\Fld@charsize=\dimen316
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (C:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count338
+\c@Item=\count339
+\c@Hfootnote=\count340
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
+ (C:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count341
+\c@bookmark@seq@number=\count342
+ (C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (C:\Program Files\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip56
+) (C:\Program Files\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen317
+\lightrulewidth=\dimen318
+\cmidrulewidth=\dimen319
+\belowrulesep=\dimen320
+\belowbottomsep=\dimen321
+\aboverulesep=\dimen322
+\abovetopsep=\dimen323
+\cmidrulesep=\dimen324
+\cmidrulekern=\dimen325
+\defaultaddspace=\dimen326
+\@cmidla=\count343
+\@cmidlb=\count344
+\@aboverulesep=\dimen327
+\@belowrulesep=\dimen328
+\@thisruleclass=\count345
+\@lastruleclass=\count346
+\@thisrulewidth=\dimen329
+) (C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 52.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+) (jawabantugas4.aux)
+\openout1 = `jawabantugas4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count347
+\scratchdimen=\dimen330
+\scratchbox=\box92
+\nofMPsegments=\count348
+\nofMParguments=\count349
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count350
+\MPscratchDim=\dimen331
+\MPnumerator=\count351
+\makeMPintoPDFobject=\count352
+\everyMPtoPDFconversion=\toks38
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Program Files\MiKTeX\tex/latex/ninecolors\ninecolors.sty
+Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
+ (C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2023-02-02 L3 Experimental document command parser
+))
+\c@lstlisting=\count353
+Package hyperref Info: Link coloring OFF on input line 52.
+ (jawabantugas4.out) (jawabantugas4.out)
+\@outlinefile=\write4
+\openout4 = `jawabantugas4.out'.
+
+
+Overfull \hbox (6.98064pt too wide) in paragraph at lines 61--61
+[]\T1/ppl/b/n/14.4 Jelaskan ke-un-tun-gan dan kelebi-han dari op-ti-masi global diband-ingkan
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\cos' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\omega' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\omega' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 73.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 73.
+
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 81.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 81.
+(C:\Program Files\MiKTeX\tex/latex/psnfss\t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+) [1
+
+{C:/Users/ASUS/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}] [2]
+<figure/gs true solution no noise.jpg, id=127, 562.1pt x 421.575pt>
+File: figure/gs true solution no noise.jpg Graphic file (type jpg)
+<use figure/gs true solution no noise.jpg>
+Package pdftex.def Info: figure/gs true solution no noise.jpg  used on input line 190.
+(pdftex.def)             Requested size: 284.52756pt x 213.39221pt.
+<figure/gs true model no noise.jpg, id=128, 562.1pt x 421.575pt>
+File: figure/gs true model no noise.jpg Graphic file (type jpg)
+<use figure/gs true model no noise.jpg>
+Package pdftex.def Info: figure/gs true model no noise.jpg  used on input line 196.
+(pdftex.def)             Requested size: 284.52756pt x 213.39221pt.
+ [3 <./figure/gs true solution no noise.jpg>] [4 <./figure/gs true model no noise.jpg>] [5] [6]
+<figure/mc true solution no noise.jpg, id=330, 562.1pt x 421.575pt>
+File: figure/mc true solution no noise.jpg Graphic file (type jpg)
+<use figure/mc true solution no noise.jpg>
+Package pdftex.def Info: figure/mc true solution no noise.jpg  used on input line 394.
+(pdftex.def)             Requested size: 284.52756pt x 213.39221pt.
+<figure/mc true model no noise.jpg, id=331, 562.1pt x 421.575pt>
+File: figure/mc true model no noise.jpg Graphic file (type jpg)
+<use figure/mc true model no noise.jpg>
+Package pdftex.def Info: figure/mc true model no noise.jpg  used on input line 400.
+(pdftex.def)             Requested size: 284.52756pt x 213.39221pt.
+<figure/mc rmse iterasi no noise.jpg, id=332, 562.1pt x 421.575pt>
+File: figure/mc rmse iterasi no noise.jpg Graphic file (type jpg)
+<use figure/mc rmse iterasi no noise.jpg>
+Package pdftex.def Info: figure/mc rmse iterasi no noise.jpg  used on input line 406.
+(pdftex.def)             Requested size: 284.52756pt x 213.39221pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 412.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 412.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 412.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 412.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mu' on input line 412.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\sigma' on input line 412.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 412.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 412.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 412.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 412.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 412.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 412.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 412.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 412.
+
+[7 <./figure/mc true solution no noise.jpg>] [8 <./figure/mc true model no noise.jpg> <./figure/mc rmse iterasi no noise.jpg>] [9]
+<figure/gs noise true solution.jpg, id=449, 562.1pt x 421.575pt>
+File: figure/gs noise true solution.jpg Graphic file (type jpg)
+<use figure/gs noise true solution.jpg>
+Package pdftex.def Info: figure/gs noise true solution.jpg  used on input line 527.
+(pdftex.def)             Requested size: 284.52756pt x 213.39221pt.
+<figure/gs noise true model.jpg, id=450, 562.1pt x 421.575pt>
+File: figure/gs noise true model.jpg Graphic file (type jpg)
+<use figure/gs noise true model.jpg>
+Package pdftex.def Info: figure/gs noise true model.jpg  used on input line 533.
+(pdftex.def)             Requested size: 284.52756pt x 213.39221pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10] [11 <./figure/gs noise true solution.jpg>] [12 <./figure/gs noise true model.jpg>] [13]
+<figure/mc noise true solution.jpg, id=660, 562.1pt x 421.575pt>
+File: figure/mc noise true solution.jpg Graphic file (type jpg)
+<use figure/mc noise true solution.jpg>
+Package pdftex.def Info: figure/mc noise true solution.jpg  used on input line 727.
+(pdftex.def)             Requested size: 284.52756pt x 213.39221pt.
+<figure/mc noise true model.jpg, id=661, 562.1pt x 421.575pt>
+File: figure/mc noise true model.jpg Graphic file (type jpg)
+<use figure/mc noise true model.jpg>
+Package pdftex.def Info: figure/mc noise true model.jpg  used on input line 733.
+(pdftex.def)             Requested size: 284.52756pt x 213.39221pt.
+<figure/mc noise rmse iterasi.jpg, id=662, 562.1pt x 421.575pt>
+File: figure/mc noise rmse iterasi.jpg Graphic file (type jpg)
+<use figure/mc noise rmse iterasi.jpg>
+Package pdftex.def Info: figure/mc noise rmse iterasi.jpg  used on input line 739.
+(pdftex.def)             Requested size: 284.52756pt x 213.39221pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 745.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 745.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 745.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 745.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 745.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 745.
+
+[14 <./figure/mc noise true solution.jpg>] [15 <./figure/mc noise true model.jpg> <./figure/mc noise rmse iterasi.jpg>] [16] (jawabantugas4.aux)
+Package rerunfilecheck Info: File `jawabantugas4.out' has not changed.
+(rerunfilecheck)             Checksum: DBD6DF229D55E4AC7DB0C162C99C67C1;4716.
+ ) 
+Here is how much of TeX's memory you used:
+ 25802 strings out of 476331
+ 480132 string characters out of 5797583
+ 1946660 words of memory out of 5000000
+ 45250 multiletter control sequences out of 15000+600000
+ 529281 words of font info for 59 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,10n,89p,1544b,2525s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on jawabantugas4.pdf (16 pages, 642689 bytes).
+PDF statistics:
+ 891 PDF objects out of 1000 (max. 8388607)
+ 606 named destinations out of 1000 (max. 500000)
+ 127 words of extra memory for PDF output out of 10000 (max. 10000000)
+
